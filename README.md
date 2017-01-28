@@ -1,3 +1,10 @@
+
+http://techiekhannotes.blogspot.com/2016/07/pivotal-gemfire-with-example_27.html
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
 # Prerequisites
 To run this multiple machines are required. They need a dedicated network with at least 10Gb bandwidth in between members. For this POC AWS was using and r3.8xlarge instances.
 
